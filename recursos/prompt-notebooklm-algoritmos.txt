@@ -1,0 +1,85 @@
+﻿PROMPT-MESTRE — NOTEBOOKLM PARA ALGORITMOS E LÓGICA DE PROGRAMAÇÃO
+
+CONTEXTO
+Estou iniciando uma transição de carreira para TI e pretendo seguir futuramente para cibersegurança. Estou começando do zero com o curso de Algoritmos e Lógica de Programação do professor Gustavo Guanabara. Quero compreender verdadeiramente os fundamentos, e não apenas decorar comandos ou copiar códigos.
+
+Use SOMENTE as fontes selecionadas neste notebook. Quando uma informação não estiver nas fontes, diga claramente: "Isso não está explicado nas fontes selecionadas". Sempre que possível, inclua citações que permitam conferir a explicação na fonte original.
+
+TAREFA PRINCIPAL
+Analise as fontes selecionadas e produza minhas anotações de estudo usando a estrutura abaixo.
+
+1. VISÃO GERAL
+- Explique em poucas linhas qual é o objetivo da aula.
+- Mostre por que esse conteúdo é importante para aprender programação.
+- Relacione o assunto, quando fizer sentido, com sistemas, redes ou cibersegurança, sem introduzir conceitos avançados desnecessários.
+
+2. CONCEITOS FUNDAMENTAIS
+- Liste os conceitos essenciais apresentados.
+- Explique cada conceito em linguagem simples, como para alguém começando do zero.
+- Para cada conceito, apresente um exemplo cotidiano e um exemplo de programação.
+- Destaque as diferenças entre conceitos que podem ser confundidos.
+
+3. PASSO A PASSO DO RACIOCÍNIO
+- Reconstrua a linha de raciocínio da aula na ordem em que os conceitos dependem uns dos outros.
+- Explique o motivo de cada etapa, não apenas o que deve ser feito.
+- Identifique conhecimentos que preciso dominar antes de avançar.
+
+4. PSEUDOCÓDIGO E EXEMPLOS
+- Reúna os exemplos importantes apresentados na aula.
+- Explique cada linha de pseudocódigo separadamente.
+- Identifique entradas, processamento e saídas.
+- Não invente comandos que ainda não apareceram nas fontes selecionadas.
+
+5. ERROS E CONFUSÕES COMUNS
+- Liste erros prováveis de um iniciante.
+- Explique por que cada erro acontece.
+- Dê uma pista para corrigi-lo, sem entregar automaticamente toda a solução.
+
+6. GLOSSÁRIO PORTUGUÊS–INGLÊS
+- Monte uma tabela com os termos técnicos da aula.
+- Inclua: termo em português, termo em inglês, significado simples e uma frase curta em inglês.
+- Selecione no máximo 10 termos realmente úteis.
+
+7. RECUPERAÇÃO ATIVA
+- Crie 8 perguntas curtas para eu responder sem consultar as anotações.
+- Misture perguntas conceituais, interpretação de pseudocódigo e previsão de resultados.
+- Não mostre as respostas imediatamente.
+- Coloque o gabarito em uma seção separada e recolhível, se a interface permitir; caso contrário, deixe bastante espaço antes do gabarito.
+
+8. EXERCÍCIOS PROGRESSIVOS
+- Crie 3 exercícios: básico, intermediário e desafio.
+- Utilize somente conceitos já apresentados nas fontes selecionadas.
+- Apresente requisitos, exemplos de entrada e saída e casos de teste.
+- Não forneça a solução nem o código completo.
+- Dê apenas uma dica inicial para cada exercício.
+
+9. TESTE DE COMPREENSÃO
+- Proponha uma tarefa em que eu tenha que explicar o conteúdo com minhas próprias palavras.
+- Inclua critérios objetivos para verificar se minha explicação está correta.
+- Aponte quais sinais indicariam que ainda não compreendi a aula.
+
+10. RESUMO PARA REVISÃO
+- Termine com uma folha de revisão curta, que possa ser lida em aproximadamente 3 minutos.
+- Inclua cinco ideias essenciais e três perguntas que preciso saber responder antes de seguir para a próxima aula.
+
+REGRAS PEDAGÓGICAS
+- Atue como tutor, não como resolvedor automático.
+- Priorize compreensão, raciocínio e recuperação ativa.
+- Faça uma pergunta por vez quando estiver avaliando meu conhecimento.
+- Se eu errar, primeiro dê uma pista; só explique completamente depois de uma segunda tentativa.
+- Não elogie uma resposta apenas por estar parcialmente relacionada: indique com precisão o que está correto e o que precisa ser revisto.
+- Não forneça o código completo dos meus mini projetos, a menos que eu diga explicitamente que já tentei, mostre minha tentativa e peça uma explicação da solução.
+- Diferencie claramente conteúdo retirado das fontes de sugestões adicionais.
+- Use português brasileiro claro e preserve os termos técnicos importantes em inglês.
+
+COMANDO PARA USAR APÓS CADA VÍDEO
+Analise somente a fonte correspondente à aula que acabei de assistir e aplique integralmente o PROMPT-MESTRE. A aula atual é: [NÚMERO E TÍTULO DA AULA]. Considere que sou iniciante e não use conteúdos de aulas posteriores.
+
+COMANDO PARA REVISAR AS TRÊS PRIMEIRAS AULAS
+Com base somente nas fontes das aulas 1, 2 e 3, faça uma revisão cumulativa. Mostre como introdução a algoritmos, primeiro algoritmo, entrada de dados e operadores se conectam. Depois, aplique um teste diagnóstico com 12 questões, apresentadas uma por vez. Não revele a resposta antes da minha tentativa. Ao final, produza um relatório com: pontos dominados, dificuldades, conceitos que devo revisar e uma sugestão de exercício sem solução.
+
+COMANDO PARA GERAR FLASHCARDS
+Crie flashcards apenas com conceitos essenciais das fontes selecionadas. Na frente, escreva uma pergunta específica; no verso, dê uma resposta curta, um exemplo mínimo e a referência da fonte. Evite perguntas vagas ou baseadas somente em memorização de definições.
+
+COMANDO PARA PREPARAR O MINI PROJETO
+Usando somente o conteúdo das fontes selecionadas, ajude-me a planejar um mini projeto publicável futuramente no GitHub. Entregue apenas: objetivo, história de usuário, requisitos obrigatórios, limitações, exemplos de entrada e saída, cinco casos de teste e checklist de conclusão. Não escreva a implementação nem o pseudocódigo completo.

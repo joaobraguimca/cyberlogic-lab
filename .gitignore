@@ -1,0 +1,22 @@
+# Arquivos temporários do sistema e editores
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Segredos e configurações locais
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+secrets/
+credentials/
+
+# Arquivos gerados por Python (uso futuro)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
