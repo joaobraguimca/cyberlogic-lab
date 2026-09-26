@@ -4,6 +4,10 @@ Laboratório pessoal criado para registrar minha evolução nos fundamentos de p
 
 O objetivo deste repositório é transformar cada etapa de estudo em uma atividade prática, documentada e revisável. Os primeiros projetos são escritos em linguagem natural e pseudocódigo. Conforme meus conhecimentos avançarem, eles serão reconstruídos em linguagens de programação.
 
+## Como usar
+
+[Consultar o tutorial completo do CyberLogic Lab](recursos/tutorial-cyberlogic-lab.md)
+
 ## Trilha de aprendizagem
 
 | Etapa | Tema | Situação |
