@@ -13,8 +13,8 @@ O objetivo deste repositório é transformar cada etapa de estudo em uma ativida
 | Etapa | Tema | Situação |
 | --- | --- | --- |
 | Aula 1 | Introdução a algoritmos | Concluída |
-| Aula 2 | Primeiro algoritmo | Próxima etapa |
-| Aula 3 | Entrada de dados e operadores | Planejada |
+| Aula 2 | Primeiro algoritmo | Concluída |
+| Aula 3 | Entrada de dados e operadores | Próxima etapa |
 
 ## Projetos
 
@@ -23,6 +23,12 @@ O objetivo deste repositório é transformar cada etapa de estudo em uma ativida
 Algoritmo defensivo para analisar uma solicitação de redefinição de senha recebida por e-mail. O exercício trabalha sequência lógica, clareza das instruções e eliminação de decisões baseadas apenas em confiança presumida.
 
 [Ver projeto da Aula 1](01-fundamentos/aula-01-algoritmos/README.md)
+
+### 02 — Cyber Profile CLI
+
+Perfil exibido no terminal para praticar a estrutura de um algoritmo em Portugol, a declaração dos quatro tipos básicos de variáveis, a atribuição de valores e a saída de dados.
+
+[Ver projeto da Aula 2](01-fundamentos/aula-02-primeiro-algoritmo/README.md)
 
 ## Princípios do laboratório
 
