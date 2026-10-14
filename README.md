@@ -6,8 +6,6 @@ O objetivo deste repositório é transformar cada etapa de estudo em uma ativida
 
 ## Como usar
 
-[Consultar o tutorial completo do CyberLogic Lab](recursos/tutorial-cyberlogic-lab.md)
-
 [Consultar as notas de revisão para copiar no caderno](recursos/revisao-para-caderno.md)
 
 ## Trilha de aprendizagem
