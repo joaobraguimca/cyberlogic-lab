@@ -8,13 +8,19 @@ O objetivo deste repositório é transformar cada etapa de estudo em uma ativida
 
 [Consultar o tutorial completo do CyberLogic Lab](recursos/tutorial-cyberlogic-lab.md)
 
+[Consultar as notas de revisão para copiar no caderno](recursos/revisao-para-caderno.md)
+
 ## Trilha de aprendizagem
+
+Curso atual: **Algoritmos e Lógica de Programação**, do professor Gustavo Guanabara.
 
 | Etapa | Tema | Situação |
 | --- | --- | --- |
 | Aula 1 | Introdução a algoritmos | Concluída |
 | Aula 2 | Primeiro algoritmo | Concluída |
-| Aula 3 | Entrada de dados e operadores | Próxima etapa |
+| Aula 3 | Entrada de dados e operadores | Concluída |
+| Aula 4 | Operadores lógicos e relacionais | Concluída |
+| Aula 5 | Introdução ao Scratch | Próxima etapa |
 
 ## Projetos
 
@@ -30,6 +36,18 @@ Perfil exibido no terminal para praticar a estrutura de um algoritmo em Portugol
 
 [Ver projeto da Aula 2](01-fundamentos/aula-02-primeiro-algoritmo/README.md)
 
+### 03 — Calculadora de Tempo de Estudo
+
+Calculadora em Portugol que recebe a quantidade de sessões e os minutos de cada sessão, calcula o tempo total e o converte em horas completas e minutos restantes. O projeto pratica entrada de dados, multiplicação, divisão inteira e resto da divisão, com três testes manuais conferidos no Visualg.
+
+[Ver projeto da Aula 3](01-fundamentos/aula-03-entrada-e-operadores/README.md)
+
+### 04 — Cyber Login Check
+
+Verificador de alertas que usa dados fictícios de tentativas de login falhas e do estado da autenticação em dois fatores. A regra do exercício gera um alerta com três ou mais falhas ou com a autenticação desativada, combinando operadores relacionais e lógicos. Os quatro testes manuais conferem todas as combinações das duas condições.
+
+[Ver projeto da Aula 4](01-fundamentos/aula-04-operadores-logicos-e-relacionais/README.md)
+
 ## Princípios do laboratório
 
 - Compreender antes de automatizar;
@@ -41,6 +59,7 @@ Perfil exibido no terminal para praticar a estrutura de um algoritmo em Portugol
 ## Tecnologias e ferramentas
 
 - Portugol e pseudocódigo;
+- Visualg;
 - Git e GitHub;
 - Visual Studio Code;
 - Python, futuramente;
